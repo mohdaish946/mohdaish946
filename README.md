@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Ais</h1>
 <h3 align="center">Aspiring Data Analyst & Machine Learning Engineer from India</h3>
 
-- 🔭 I'm currently working on on on [Olist_Ecommerce_Data_Analysis](https://github.com/mohdaish946/Olist_Ecommerce_Analysis)
+- 🔭 I'm currently working on [Olist_Ecommerce_Data_Analysis](https://github.com/mohdaish946/Olist_Ecommerce_Analysis)
 
 - 🌱 I’m currently learning **Advanced SQL, Power BI, Python & Machine Learning**
 
