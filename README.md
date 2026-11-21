@@ -1,13 +1,7 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd%20Ais&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer%20%7C%20SQL%20%26%20BI%20Developer&descAlignY=60&descSize=18" width="100%"/>
-
-  <!-- Dynamic Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Actionable+Business+Insights;Designing+Normalized+SQL+Schemas+%26+ETL+Pipelines;Building+End-to-End+ML+Models+%26+FastAPI+Services;Interactive+Power+BI+Dashboards+%26+Data+Storytelling" alt="Typing SVG" />
-  </a>
-
-  <br/>
+  <h1>Hi 👋, I'm Mohd Ais</h1>
+  <h3>Data Analyst | Machine Learning Engineer</h3>
+  <p>Transforming raw data into actionable business insights and building end-to-end predictive ML solutions.</p>
 
   <!-- Social & Contact Badges -->
   <p>
@@ -90,8 +84,4 @@ Final-year **B.Tech (Artificial Intelligence & Machine Learning)** student from 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohdaish946&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohd Ais GitHub Stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdaish946&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 </div>
